@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Bipul Saha
 
-<!--
-**Bipul-02/Bipul-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in CSE (AI & ML)  
+💻 Learning Data Structures & Algorithms  
+🚀 Aspiring Machine Learning Engineer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills I'm Learning
+- C++
+- Data Structures & Algorithms
+- Python (Beginner)
+- Problem Solving
+
+---
+
+## 📚 Current Focus
+- Solving DSA problems daily
+- Building coding discipline
+- Learning Machine Learning fundamentals
+
+---
+
+## 📈 2026 Goals
+- Solve 300+ DSA problems
+- Build 5 coding projects
+- Contribute to open source
